@@ -44,7 +44,7 @@
                 }
               ],
               "outputHashing": "all",
-              "baseHref": "/burgers_project/"
+              "baseHref": "/burgers/"
             },
             "development": {
               "buildOptimizer": false,
